@@ -2,7 +2,8 @@ import React from 'react'
 
 export default function hello() {
   return (
-    <div><h1>Hello World</h1> 
+    <div>Hello World
+        <p>This is a paragraph.</p>
     </div>
   )
 }
