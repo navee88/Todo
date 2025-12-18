@@ -2,7 +2,6 @@
     "user":
         {
         "Hello":"Helloworld",
-        "name":"Kishor Kumar",
-        "age":"25"
+        "name":"Kishor Kumar"
         }
 }
