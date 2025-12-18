@@ -2,7 +2,7 @@ import React from 'react'
 
 function Helloworld() {
   return (
-    <div>Helloworld</div>
+    <div>Helloworld from the world file</div>
   )
 }
 
