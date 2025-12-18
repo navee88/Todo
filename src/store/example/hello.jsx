@@ -5,6 +5,7 @@ export default function hello() {
     <div><h1>Hello World</h1>
         <p>This is the hello component.</p>
     Hello World
+    
 
     </div>
   )
