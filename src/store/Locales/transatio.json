@@ -2,10 +2,6 @@
     "user":
         {
         "Hello":"Helloworld",
-        "name":"Kishor Kumar",
-        "git":"Agaram git"
-        },
-        {
-            "agaram":"git"
+        "name":"Kishor Kumar"
         }
 }
